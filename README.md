@@ -1,4 +1,7 @@
 # Getting Started with GitHub Copilot
+GitHub Copilot is an AI-powered code completion tool that helps you write code faster and with less effort. By analyzing the context of your code, it suggests whole lines or blocks of code, making development more efficient and enjoyable.
+
+In this exercise, you'll learn how to get started with GitHub Copilot and explore its features to enhance your coding experience.
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
