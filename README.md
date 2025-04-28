@@ -1,19 +1,20 @@
-# Getting Started with GitHub Copilot
-GitHub Copilot is an AI-powered code completion tool that helps you write code faster and with less effort. By analyzing the context of your code, it suggests whole lines or blocks of code, making development more efficient and enjoyable.
+# Congratulations! :tada:
 
-In this exercise, you'll learn how to get started with GitHub Copilot and explore its features to enhance your coding experience.
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+Yay **MidmarkBRose** you finished the exercise! Nice work :tada:
 
-Hey **MidmarkBRose**!
+If you would like to retrace your steps, you can always revisit the exercise.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/MidmarkBRose/skills-getting-started-with-github-copilot/issues/1)
 
-Remember, it's self-paced so feel fee to take a break! ☕️
+> [!TIP]
+> Mona won't grade you this time! 😉
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/MidmarkBRose/skills-getting-started-with-github-copilot/issues/1)
 
----
+### Craving more? :raising_hand:
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Did you enjoy this practical style of learning? There's no better way to learn than building things, right?!
+
+Let's keep the momentum going! Head over to [GitHub Skills](https://skills.github.com) catalog to find another hands-on exercise. :rocket:
 
